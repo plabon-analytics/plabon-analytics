@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Data+Analytics+Student+%7C+Python+%7C+ML+%7C+SQL+%7C+Tableau;Building+Data-Driven+Solutions;Aspiring+MSc+Candidate+2027)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&width=500&lines=I+find+the+story+hiding+inside+data;Data+Analyst+%7C+Python+%E2%80%A2+SQL+%E2%80%A2+Tableau;Turning+raw+data+into+business+decisions;MS+Data+Analytics+%E2%86%92+Europe+2029)](https://git.io/typing-svg)
 
 # Hi, I'm Plabon Roy 👋
 
@@ -48,8 +48,9 @@ Analyzed 800 customer records across 11 behavioral, financial, and demographic a
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=plabon-analytics&show_icons=true&theme=default&hide_border=true&title_color=2F80ED&icon_color=2F80ED" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plabon-analytics&layout=compact&theme=default&hide_border=true&title_color=2F80ED" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=plabon-analytics&show_icons=true&theme=github_dark&hide_border=true&title_color=2196F3&icon_color=2196F3&bg_color=0d1117" height="160"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plabon-analytics&layout=compact&theme=github_dark&hide_border=true&title_color=2196F3&bg_color=0d1117" height="160"/>
 </p>
 
 ---
