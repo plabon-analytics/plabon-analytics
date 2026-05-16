@@ -47,9 +47,9 @@ Analyzed 800 customer records across 11 behavioral, financial, and demographic a
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=plabon-analytics&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="160"/>
-</p>
+![Roy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=plabon-analytics&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plabon-analytics&layout=compact&theme=tokyonight)
 
 ---
 
