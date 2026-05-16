@@ -38,6 +38,8 @@ My projects focus on:
 
 ---
 
+## 🚀 Featured Projects
+
 ### 🔹 [Customer Behavior & Revenue Intelligence Analysis](https://github.com/plabon-analytics/customer-behavior-revenue-intelligence)
 > *Can a business stop treating all customers the same — and start acting on who they actually are?*
 
