@@ -57,7 +57,7 @@ and which revenue is sitting completely untapped.
 ---
 
 ### 🔹 [Titanic Survival Analysis](https://github.com/plabon-analytics/Titanic_analysis_Project)
-> *What actually determined who lived and who died — and can survival be predicted from demographics alone?*
+> *A structured methodology showcase: end-to-end EDA and baseline classification on a canonical dataset to demonstrate analytical pipeline discipline.*
 
 Analyzed 891 passenger records across gender, class, age, fare, and family structure. Engineered a `family_size` feature to examine whether traveling with family influenced survival outcomes. Performed end-to-end EDA with visualizations across all key variables and built a baseline Logistic Regression model to predict survival probability.
 
