@@ -2,7 +2,7 @@
 
 # Hi, I'm Plabon Roy 👋
 
-### I find the story hiding inside data.
+### Data Analyst • Analytical Thinker • Builder
 
 I'm a Data Analyst from Bangladesh, studying Business Analytics at Chandigarh University, India. I don't just work with data — I build real-world analytical projects that translate complex datasets into decisions businesses can actually act on.
 
