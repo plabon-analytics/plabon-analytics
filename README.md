@@ -15,18 +15,19 @@ My direction is clear: complete my Bachelor's, earn a scholarship for a **Master
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## 📊 What I Built
+## 📊 My Analytical Focus
 
 I build **real-world analytical projects** — not textbook exercises. Every project here starts with a business problem, follows a structured analytical pipeline, and ends with decisions a business could actually implement.
 
@@ -43,14 +44,14 @@ My projects focus on:
 ### 🔹 [Customer Behavior & Revenue Intelligence Analysis](https://github.com/plabon-analytics/customer-behavior-revenue-intelligence)
 > *Can a business stop treating all customers the same — and start acting on who they actually are?*
 
-Most businesses market to everyone the same way — 
-and wonder why retention fails. I analyzed 800 
-customer records, engineered three composite 
-behavioral features invisible to raw data alone (`customer_value`, `risk_score`, `value_efficiency`), 
-and segmented customers into 4 actionable profiles. 
-The output: a full decision framework telling the 
-business exactly where to invest, who to retain, 
-and which revenue is sitting completely untapped.
+Most businesses market to everyone the same way — and wonder 
+Why retention fails. I analyzed 800 customer records, engineered 
+Three composite behavioral features are invisible to raw data alone 
+(`customer_value`, `risk_score`, `value_efficiency`), and 
+segmented customers into 4 actionable profiles. The output: a 
+full decision framework telling the business exactly where to 
+invest, who to retain, and which revenue is sitting completely 
+untapped.
 
 `Python` `Pandas` `Scikit-learn` `K-Means` `PCA` `Matplotlib` `Seaborn`
 
