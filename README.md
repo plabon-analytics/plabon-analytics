@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Data+Analytics+Student+%7C+Python+%7C+ML;Building+Data-Driven+Solutions;Aspiring+MSc+Candidate+2027)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Data+Analytics+Student+%7C+Python+%7C+ML+SQL+Tableau;Building+Data-Driven+Solutions;Aspiring+MSc+Candidate+2027)
 
 # Hi, I'm Plabon Roy 👋
 
