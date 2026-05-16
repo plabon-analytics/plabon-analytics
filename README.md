@@ -38,12 +38,30 @@ My projects focus on:
 
 ---
 
-## 🚀 Featured Projects
-
 ### 🔹 [Customer Behavior & Revenue Intelligence Analysis](https://github.com/plabon-analytics/customer-behavior-revenue-intelligence)
 > *Can a business stop treating all customers the same — and start acting on who they actually are?*
 
-Analyzed 800 customer records across 11 behavioral, financial, and demographic attributes. Engineered composite features (`customer_value`, `risk_score`, `value_efficiency`) and applied K-Means Clustering to identify 4 distinct customer segments. Delivered a full Business Decision Framework with KPIs per segment — covering retention, conversion, re-engagement, and return reduction strategies.
+Most businesses market to everyone the same way — 
+and wonder why retention fails. I analyzed 800 
+customer records, engineered three composite 
+behavioral features invisible to raw data alone (`customer_value`, `risk_score`, `value_efficiency`), 
+and segmented customers into 4 actionable profiles. 
+The output: a full decision framework telling the 
+business exactly where to invest, who to retain, 
+and which revenue is sitting completely untapped.
+
+`Python` `Pandas` `Scikit-learn` `K-Means` `PCA` `Matplotlib` `Seaborn`
+
+---
+
+### 🔹 [Titanic Survival Analysis](https://github.com/plabon-analytics/Titanic_analysis_Project)
+> *What actually determined who lived and who died — and can survival be predicted from demographics alone?*
+
+Analyzed 891 passenger records across gender, class, age, fare, and family structure. Engineered a `family_size` feature to examine whether traveling with family influenced survival outcomes. Performed end-to-end EDA with visualizations across all key variables and built a baseline Logistic Regression model to predict survival probability.
+
+`Python` `Pandas` `Scikit-learn` `Logistic Regression` `Matplotlib` `Seaborn`
+
+---
 
 ## 📈 GitHub Stats
 
