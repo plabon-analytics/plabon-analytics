@@ -41,6 +41,15 @@ My projects focus on:
 
 ## 🚀 Featured Projects
 
+### 🔹 [Customer Segmentation & Targeted Marketing Campaign Analysis](https://github.com/plabon-analytics/customer-segmentation-targeted-marketing-campaign-analysis.git)
+> *Why push the same message to everyone when data can tell you exactly who will convert?*
+
+Using the canonical *Customer Personality Analysis* dataset (`marketing_campaign.csv`), I engineered an end-to-end analytical pipeline to eliminate uniform, low-ROI marketing spend. I developed a quartile-based RFM scoring framework and applied K-Means clustering to segment 2,240 customers into four distinct, behaviorally validated profiles. This project translates machine learning outputs into explicit business answers: revealing a massive mismatch between customer value and campaign engagement, identifying an untouched $934-average-spend segment, and establishing a data-backed priority framework to optimize marketing budget allocation[cite: 2].
+
+**Tech Stack:** `Python` • `Pandas` • `Scikit-learn` • `K-Means` • `PCA` • `Matplotlib` • `Seaborn`
+
+---
+
 ### 🔹 [Customer Behavior & Revenue Intelligence Analysis](https://github.com/plabon-analytics/customer-behavior-revenue-intelligence)
 > *Can a business stop treating all customers the same — and start acting on who they actually are?*
 
