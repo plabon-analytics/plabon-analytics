@@ -48,7 +48,7 @@ I designed a 6-table relational e-commerce database from scratch in MySQL and bu
 
 **Tech Stack:** `MySQL` • `SQL` • `CTEs` • `Window Functions` • `NTILE` • `LAG` • `PERIOD_DIFF`
 
-**Status:** In progress — Customer Retention, Funnel Analysis, Rolling Averages for Business KPIs, CLV analyses, Market Basket Analysis are coming next.
+**Status:** In progress — Rolling Averages for Business KPIs, CLV analyses, Market Basket Analysis are coming next.
 
 ---
 
