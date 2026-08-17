@@ -41,6 +41,17 @@ My projects focus on:
 
 ## 🚀 Featured Projects
 
+### 🔹 [ShopSmart — SQL Analytics Portfolio](https://github.com/plabon-analytics/shopsmart-sql-analytics)
+> *Most businesses treat every customer the same — that's usually where the revenue leaks.*
+
+I designed a 6-table relational e-commerce database from scratch in MySQL and built a growing series of business analyses entirely in SQL. RFM segmentation revealed that 47% of active customers generate 74% of total revenue, with ₹4.1L in recoverable revenue sitting in an under-engaged "At Risk" segment. Month-over-Month and Year-over-Year growth analysis surfaced a 25% revenue dip in 2023 followed by a 40% recovery in 2024, while Cohort Analysis honestly documented a real data-scale limitation rather than overstating a weak signal. Each analysis is built with production-grade SQL — chained CTEs, window functions, and business-labeled outputs — not just single queries.
+
+**Tech Stack:** `MySQL` • `SQL` • `CTEs` • `Window Functions` • `NTILE` • `LAG` • `PERIOD_DIFF`
+
+**Status:** In progress — Customer Retention, Funnel Analysis, Rolling Averages for Business KPIs, CLV analyses, Market Basket Analysis are coming next.
+
+---
+
 ### 🔹 [Customer Segmentation & Targeted Marketing Campaign Analysis](https://github.com/plabon-analytics/customer-segmentation-targeted-marketing-campaign-analysis.git)
 > *Why push the same message to everyone when data can tell you exactly who will convert?*
 
