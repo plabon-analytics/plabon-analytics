@@ -44,7 +44,7 @@ My projects focus on:
 ### 🔹 [Customer Segmentation & Targeted Marketing Campaign Analysis](https://github.com/plabon-analytics/customer-segmentation-targeted-marketing-campaign-analysis.git)
 > *Why push the same message to everyone when data can tell you exactly who will convert?*
 
-Using the canonical *Customer Personality Analysis* dataset (`marketing_campaign.csv`), I engineered an end-to-end analytical pipeline to eliminate uniform, low-ROI marketing spend. I developed a quartile-based RFM scoring framework and applied K-Means clustering to segment 2,240 customers into four distinct, behaviorally validated profiles. This project translates machine learning outputs into explicit business answers: revealing a massive mismatch between customer value and campaign engagement, identifying an untouched $934-average-spend segment, and establishing a data-backed priority framework to optimize marketing budget allocation[cite: 2].
+Using the canonical *Customer Personality Analysis* dataset (`marketing_campaign.csv`), I engineered an end-to-end analytical pipeline to eliminate uniform, low-ROI marketing spend. I developed a quartile-based RFM scoring framework and applied K-Means clustering to segment 2,240 customers into four distinct, behaviorally validated profiles. This project translates machine learning outputs into explicit business answers: revealing a massive mismatch between customer value and campaign engagement, identifying an untouched $934-average-spend segment, and establishing a data-backed priority framework to optimize marketing budget allocation.
 
 **Tech Stack:** `Python` • `Pandas` • `Scikit-learn` • `K-Means` • `PCA` • `Matplotlib` • `Seaborn`
 
@@ -62,7 +62,7 @@ full decision framework telling the business exactly where to
 invest, who to retain, and which revenue is sitting completely 
 untapped.
 
-`Python` `Pandas` `Scikit-learn` `K-Means` `PCA` `Matplotlib` `Seaborn`
+**Tech Stack:** `Python` • `Pandas` • `Scikit-learn` • `K-Means` • `PCA` • `Matplotlib` • `Seaborn`
 
 ---
 
@@ -71,7 +71,7 @@ untapped.
 
 Analyzed 891 passenger records across gender, class, age, fare, and family structure. Engineered a `family_size` feature to examine whether traveling with family influenced survival outcomes. Performed end-to-end EDA with visualizations across all key variables and built a baseline Logistic Regression model to predict survival probability.
 
-`Python` `Pandas` `Scikit-learn` `Logistic Regression` `Matplotlib` `Seaborn`
+**Tech Stack:** `Python` • `Pandas` • `Scikit-learn` • `Logistic Regression` • `Matplotlib` • `Seaborn`
 
 ---
 
